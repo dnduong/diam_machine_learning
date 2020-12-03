@@ -1,2 +1,2 @@
-# diam_machine_learning
+# Machine Learning
 Estimation du prix des diamants avec les méthodes Machine Learning : Random Forests, Decision Trees, Boosting, ....
